@@ -1,6 +1,7 @@
 **/target/
 
-
+## System files
+.DS_Store
 
 ### IntelliJ IDEA ###
 **/.idea
@@ -8,6 +9,12 @@
 **/*.iml
 **/*.ipr
 
+## VS Code and other configurations
+.vscode/
+.project
+.classpath
+.factorypath
+.settings/
 
 # other
 dev/mysql/data/*
